@@ -1,0 +1,11 @@
+<suite name="OrangeSuite" parallel="none">
+  <test name="FirefoxTest">
+  <parameter name="browser" value="firefox"/>
+    <classes>
+       <class name="com.hrm.scripts.VerifyLoginLogout"/>
+       <class name="com.hrm.scripts.HomePage_PIM_AddEmployee"/>
+      
+
+    </classes>
+  </test>
+</suite>

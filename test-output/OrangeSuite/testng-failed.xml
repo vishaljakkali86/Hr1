@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeSuite]">
+  <test name="FirefoxTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.hrm.scripts.HomePage_PIM_AddEmployee">
+        <methods>
+          <include name="initApplication"/>
+          <include name="cleanApplication"/>
+          <include name="postCondition"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.hrm.scripts.HomePage_PIM_AddEmployee -->
+      <class name="com.hrm.scripts.VerifyLoginLogout">
+        <methods>
+          <include name="initBrowser"/>
+          <include name="initApplication"/>
+          <include name="initFrameWork"/>
+          <include name="cleanApplication"/>
+          <include name="postCondition"/>
+          <include name="closeBrowser"/>
+          <include name="preCondition"/>
+          <include name="testLoginLogout"/>
+          <include name="closeFrameWork"/>
+        </methods>
+      </class> <!-- com.hrm.scripts.VerifyLoginLogout -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [OrangeSuite] -->

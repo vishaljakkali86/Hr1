@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="6" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OrangeSuite" duration-ms="50468" started-at="2017-02-10T11:52:12Z" finished-at="2017-02-10T11:53:03Z">
+    <groups>
+    </groups>
+    <test name="FirefoxTest" duration-ms="50468" started-at="2017-02-10T11:52:12Z" finished-at="2017-02-10T11:53:03Z">
+      <class name="com.hrm.scripts.VerifyLoginLogout">
+        <test-method status="PASS" signature="initFrameWork()[pri:0, instance:com.hrm.scripts.VerifyLoginLogout@5e853265]" name="initFrameWork" is-config="true" duration-ms="520" started-at="2017-02-10T17:22:12Z" finished-at="2017-02-10T17:22:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initFrameWork -->
+        <test-method status="PASS" signature="initBrowser(java.lang.String)[pri:0, instance:com.hrm.scripts.VerifyLoginLogout@5e853265]" name="initBrowser" is-config="true" duration-ms="8" started-at="2017-02-10T17:22:12Z" finished-at="2017-02-10T17:22:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.hrm.scripts.VerifyLoginLogout@5e853265]" name="initApplication" is-config="true" duration-ms="10688" started-at="2017-02-10T17:22:12Z" finished-at="2017-02-10T17:22:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.hrm.scripts.VerifyLoginLogout@5e853265]" name="preCondition" is-config="true" duration-ms="9" started-at="2017-02-10T17:22:23Z" finished-at="2017-02-10T17:22:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hrm.scripts.VerifyLoginLogout.testLoginLogout() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testLoginLogout()[pri:0, instance:com.hrm.scripts.VerifyLoginLogout@5e853265]" name="testLoginLogout" duration-ms="14858" started-at="2017-02-10T17:22:23Z" finished-at="2017-02-10T17:22:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLogout -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.hrm.scripts.VerifyLoginLogout@5e853265]" name="postCondition" is-config="true" duration-ms="8" started-at="2017-02-10T17:22:38Z" finished-at="2017-02-10T17:22:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginLogout status=SUCCESS method=VerifyLoginLogout.testLoginLogout()[pri:0, instance:com.hrm.scripts.VerifyLoginLogout@5e853265] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="cleanApplication()[pri:0, instance:com.hrm.scripts.VerifyLoginLogout@5e853265]" name="cleanApplication" is-config="true" duration-ms="2404" started-at="2017-02-10T17:22:38Z" finished-at="2017-02-10T17:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanApplication -->
+        <test-method status="PASS" signature="closeBrowser(java.lang.String)[pri:0, instance:com.hrm.scripts.VerifyLoginLogout@5e853265]" name="closeBrowser" is-config="true" duration-ms="2" started-at="2017-02-10T17:23:03Z" finished-at="2017-02-10T17:23:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeFrameWork()[pri:0, instance:com.hrm.scripts.VerifyLoginLogout@5e853265]" name="closeFrameWork" is-config="true" duration-ms="1201" started-at="2017-02-10T17:23:03Z" finished-at="2017-02-10T17:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFrameWork -->
+      </class> <!-- com.hrm.scripts.VerifyLoginLogout -->
+      <class name="com.hrm.scripts.HomePage_PIM_AddEmployee">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.hrm.scripts.HomePage_PIM_AddEmployee@67205a84]" name="initApplication" is-config="true" duration-ms="9834" started-at="2017-02-10T17:22:40Z" finished-at="2017-02-10T17:22:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.hrm.scripts.HomePage_PIM_AddEmployee@67205a84]" name="preCondition" is-config="true" duration-ms="3597" started-at="2017-02-10T17:22:50Z" finished-at="2017-02-10T17:22:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hrm.scripts.HomePage_PIM_AddEmployee.testHomeAddDeleteEmployee()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testHomeAddDeleteEmployee()[pri:0, instance:com.hrm.scripts.HomePage_PIM_AddEmployee@67205a84]" name="testHomeAddDeleteEmployee" duration-ms="5142" started-at="2017-02-10T17:22:54Z" finished-at="2017-02-10T17:22:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomeAddDeleteEmployee -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.hrm.scripts.HomePage_PIM_AddEmployee@67205a84]" name="postCondition" is-config="true" duration-ms="1997" started-at="2017-02-10T17:22:59Z" finished-at="2017-02-10T17:23:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testHomeAddDeleteEmployee status=SUCCESS method=HomePage_PIM_AddEmployee.testHomeAddDeleteEmployee()[pri:0, instance:com.hrm.scripts.HomePage_PIM_AddEmployee@67205a84] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="cleanApplication()[pri:0, instance:com.hrm.scripts.HomePage_PIM_AddEmployee@67205a84]" name="cleanApplication" is-config="true" duration-ms="1872" started-at="2017-02-10T17:23:01Z" finished-at="2017-02-10T17:23:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanApplication -->
+      </class> <!-- com.hrm.scripts.HomePage_PIM_AddEmployee -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- OrangeSuite -->
+</testng-results>

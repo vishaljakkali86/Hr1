@@ -1,0 +1,69 @@
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:37:09,367 com.hrm.common.BaseTest.initFrameWork(BaseTest.java:50) initializing ExtentReport 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:37:09,782 com.hrm.common.BaseTest.initBrowser(BaseTest.java:70) Execution started on Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:37:09,792 com.hrm.common.BaseTest.initApplication(BaseTest.java:83) Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:37:30,980 com.hrm.common.BaseTest.initApplication(BaseTest.java:91) TimeOut:20 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:37:31,079 com.hrm.common.BaseTest.preCondition(BaseTest.java:114) explicit login required 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:37:31,092 com.hrm.scripts.ImplicitLoginScenario.testLoginScenario(ImplicitLoginScenario.java:10) This is from ImplicitLoginScenario 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:37:31,097 com.hrm.common.BaseTest.postCondition(BaseTest.java:129) explicit logout required 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:37:32,228 com.hrm.common.BaseTest.initApplication(BaseTest.java:83) Browser:firefox 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:37:48,889 com.hrm.common.BaseTest.initApplication(BaseTest.java:91) TimeOut:20 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:37:48,953 com.hrm.common.BaseTest.preCondition(BaseTest.java:106) implicit login 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:38:01,746 com.hrm.scripts.ExplicitLoginScenario.testLoginScenario(ExplicitLoginScenario.java:14) This is from ExplicitLoginScenario 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:38:01,749 com.hrm.common.BaseTest.postCondition(BaseTest.java:122) implicit logout 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:38:10,521 com.hrm.common.BaseTest.closeBrowser(BaseTest.java:77) Execution completed on Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:38:10,591 com.hrm.common.BaseTest.closeFrameWork(BaseTest.java:63) finalizing ExtentReport 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:41:38,375 com.hrm.common.BaseTest.initFrameWork(BaseTest.java:50) initializing ExtentReport 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:41:38,788 com.hrm.common.BaseTest.initBrowser(BaseTest.java:70) Execution started on Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:41:38,799 com.hrm.common.BaseTest.initApplication(BaseTest.java:83) Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:41:59,939 com.hrm.common.BaseTest.initApplication(BaseTest.java:91) TimeOut:20 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:42:00,024 com.hrm.common.BaseTest.preCondition(BaseTest.java:114) explicit login required 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:42:00,033 com.hrm.scripts.ImplicitLoginScenario.testLoginScenario(ImplicitLoginScenario.java:10) This is from ImplicitLoginScenario 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:42:00,036 com.hrm.common.BaseTest.postCondition(BaseTest.java:129) explicit logout required 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:42:00,857 com.hrm.common.BaseTest.initApplication(BaseTest.java:83) Browser:firefox 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:42:16,928 com.hrm.common.BaseTest.initApplication(BaseTest.java:91) TimeOut:20 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:42:16,995 com.hrm.common.BaseTest.preCondition(BaseTest.java:106) implicit login 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:42:29,570 com.hrm.scripts.ExplicitLoginScenario.testLoginScenario(ExplicitLoginScenario.java:14) This is from ExplicitLoginScenario 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:42:29,575 com.hrm.common.BaseTest.postCondition(BaseTest.java:122) implicit logout 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:42:38,666 com.hrm.common.BaseTest.closeBrowser(BaseTest.java:77) Execution completed on Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:42:38,734 com.hrm.common.BaseTest.closeFrameWork(BaseTest.java:63) finalizing ExtentReport 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:48:23,960 com.hrm.common.BaseTest.initFrameWork(BaseTest.java:50) initializing ExtentReport 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:48:24,504 com.hrm.common.BaseTest.initBrowser(BaseTest.java:70) Execution started on Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:48:24,514 com.hrm.common.BaseTest.initApplication(BaseTest.java:83) Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:48:48,578 com.hrm.common.BaseTest.initApplication(BaseTest.java:91) TimeOut:20 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:48:48,671 com.hrm.common.BaseTest.preCondition(BaseTest.java:114) explicit login required 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:48:48,685 com.hrm.scripts.ImplicitLoginScenario.testLoginScenario(ImplicitLoginScenario.java:10) This is from ImplicitLoginScenario 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:48:48,690 com.hrm.common.BaseTest.postCondition(BaseTest.java:129) explicit logout required 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:48:54,150 com.hrm.common.BaseTest.initApplication(BaseTest.java:83) Browser:firefox 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:49:11,236 com.hrm.common.BaseTest.initApplication(BaseTest.java:91) TimeOut:20 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:49:11,302 com.hrm.common.BaseTest.preCondition(BaseTest.java:106) implicit login 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:49:24,038 com.hrm.scripts.ExplicitLoginScenario.testLoginScenario(ExplicitLoginScenario.java:14) This is from ExplicitLoginScenario 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-15 23:49:24,041 com.hrm.common.BaseTest.postCondition(BaseTest.java:122) implicit logout 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:49:33,206 com.hrm.common.BaseTest.closeBrowser(BaseTest.java:77) Execution completed on Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-15 23:49:33,405 com.hrm.common.BaseTest.closeFrameWork(BaseTest.java:63) finalizing ExtentReport 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:45:26,939 com.hrm.common.BaseTest.initFrameWork(BaseTest.java:52) initializing ExtentReport 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:45:27,079 com.hrm.common.BaseTest.initBrowser(BaseTest.java:74) Execution started on Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:45:27,083 com.hrm.common.BaseTest.initApplication(BaseTest.java:87) Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:06,555 com.hrm.common.BaseTest.initFrameWork(BaseTest.java:52) initializing ExtentReport 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:06,708 com.hrm.common.BaseTest.initBrowser(BaseTest.java:74) Execution started on Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:06,711 com.hrm.common.BaseTest.initApplication(BaseTest.java:87) Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:13,354 com.hrm.common.BaseTest.initApplication(BaseTest.java:97) TimeOut:20 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:13,496 com.hrm.common.BaseTest.preCondition(BaseTest.java:118) explicit login required 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:13,501 com.hrm.scripts.ImplicitLoginScenario.testLoginScenario(ImplicitLoginScenario.java:10) This is from ImplicitLoginScenario 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:13,503 com.hrm.common.BaseTest.postCondition(BaseTest.java:133) explicit logout required 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-16 12:46:15,156 com.hrm.common.BaseTest.initApplication(BaseTest.java:87) Browser:firefox 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-16 12:46:20,881 com.hrm.common.BaseTest.initApplication(BaseTest.java:97) TimeOut:20 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-16 12:46:20,889 com.hrm.common.BaseTest.preCondition(BaseTest.java:110) implicit login 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-16 12:46:23,031 com.hrm.scripts.ExplicitLoginScenario.testLoginScenario(ExplicitLoginScenario.java:14) This is from ExplicitLoginScenario 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-16 12:46:23,032 com.hrm.common.BaseTest.postCondition(BaseTest.java:126) implicit logout 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:50,529 com.hrm.common.BaseTest.initFrameWork(BaseTest.java:52) initializing ExtentReport 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:50,673 com.hrm.common.BaseTest.initBrowser(BaseTest.java:74) Execution started on Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:50,677 com.hrm.common.BaseTest.initApplication(BaseTest.java:87) Browser:firefox 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:58,114 com.hrm.common.BaseTest.initApplication(BaseTest.java:97) TimeOut:20 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:58,199 com.hrm.common.BaseTest.preCondition(BaseTest.java:118) explicit login required 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:58,203 com.hrm.scripts.ImplicitLoginScenario.testLoginScenario(ImplicitLoginScenario.java:10) This is from ImplicitLoginScenario 
+com.hrm.scripts.ImplicitLoginScenario 2017-01-16 12:46:58,209 com.hrm.common.BaseTest.postCondition(BaseTest.java:133) explicit logout required 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-16 12:46:59,469 com.hrm.common.BaseTest.initApplication(BaseTest.java:87) Browser:firefox 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-16 12:47:06,352 com.hrm.common.BaseTest.initApplication(BaseTest.java:97) TimeOut:20 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-16 12:47:06,360 com.hrm.common.BaseTest.preCondition(BaseTest.java:110) implicit login 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-16 12:47:08,624 com.hrm.scripts.ExplicitLoginScenario.testLoginScenario(ExplicitLoginScenario.java:14) This is from ExplicitLoginScenario 
+com.hrm.scripts.ExplicitLoginScenario 2017-01-16 12:47:08,625 com.hrm.common.BaseTest.postCondition(BaseTest.java:126) implicit logout 
